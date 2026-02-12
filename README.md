@@ -1,16 +1,51 @@
-# biblia
 
-A new Flutter project.
+# Bíblia Sagrada Ave Maria
 
-## Getting Started
+![Logo](assets/nsa.png)
 
-This project is a starting point for a Flutter application.
+Uma aplicação multiplataforma gratuita e de domínio público para leitura da Bíblia Sagrada.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Sobre
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Bíblia Sagrada Ave Maria** é um projeto Flutter desenvolvido para oferecer acesso gratuito e ilimitado à Bíblia Sagrada em múltiplas plataformas.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ Multiplataforma (iOS, Android, Web, Windows, macOS, Linux)
+- ✅ Totalmente gratuito
+- ✅ Domínio público
+- ✅ Código aberto
+
+## 🌐 Acesso público:
+
+- **Website**: https://biblia-ave-maria.leonardodelboni.com.br/
+- **Repositório**: https://github.com/leonardo-travagini-delboni/biblia-ave-maria
+
+## 🛠️ Desenvolvimento
+
+Este projeto é integralmente desenvolvido com [Flutter](https://flutter.dev).
+
+### Pré-requisitos
+- Flutter SDK
+- Dart
+
+### Instalação
+
+```bash
+git clone https://github.com/leonardo-travagini-delboni/biblia-ave-maria.git
+cd biblia-ave-maria
+flutter pub get
+flutter run
+```
+
+## 📄 Licença
+
+Domínio público. Todos podem usar, modificar e distribuir este projeto livremente.
+
+## 👤 Autor
+
+**Leonardo Delboni**
+- Email: leonardodelboni@gmail.com
+- Telefone: +55 (11) 99442-1880
+
+---
+
+Copyright © 2025-2026 by Leonardo Delboni
