@@ -92,7 +92,7 @@ BEGIN
             VALUE "CompanyName", "br.com.leonardodelboni.biblia" "\0"
             VALUE "FileDescription", "biblia" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "biblia" "\0"
+            VALUE "InternalName", "br.com.leonardodelboni.biblia" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 br.com.leonardodelboni.biblia. All rights reserved." "\0"
             VALUE "OriginalFilename", "biblia.exe" "\0"
             VALUE "ProductName", "biblia" "\0"
